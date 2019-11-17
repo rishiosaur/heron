@@ -11,10 +11,14 @@ A story of love, thought, and knowledge. #CLASS: subtitle
 === Intro ===
 
 = Start
+<hr/>
 -> EDUCATION.Start
+
 
 === EDUCATION ===
 = Start
+Chapter 2: Education # CLASS: chapter
+
 1983/9/5 # CLASS: date
 
 You are now 5 years old.
@@ -143,8 +147,9 @@ You head back to your classroom, where you now have math class. You've always en
 
 However, when you get there, your teacher is also there, giving out books...
 
-"These will be your textbooks for the year."
+"These will be your textbooks for the year." she says.
 
+When she gives you your book, you see that it is in terrible condition: the spine is falling apart, 
 
 
 -> END
