@@ -210,6 +210,19 @@ p.choice a {
   vertical-align: middle;
 }
 
+.date {
+    font-size: 3em;
+    font-weight: 300;
+    display: block;
+    margin: 0;
+  }
+  
+  .date:before {
+    content: "📆   ";
+    font-size: 0.5em;
+    vertical-align: middle;
+  }
+
 .measure {
   text-align: center;
 }
