@@ -33,7 +33,7 @@ You are getting ready to start your journey to the school with your parents, and
 
 You finally reach the school after 20 minutes of walking.
 
-Class doesn’t start until 8:00, so you look around the school to try to scope things out. Your parents have to leave for work, 
+Class doesn’t start until 8:00, so you look around the school to try to scope things out. Your parents have to leave for work, so you're left all to yourself.
 
 You’re at the front of the school, so which way do you go?
 
