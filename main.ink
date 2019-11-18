@@ -96,7 +96,7 @@ In all honesty, the only reason you want to go to school is to escape your horri
 
 
 = Back1
-8:03 # CLASS: time
+8:03 AM # CLASS: time
 
 You run back to the front of the building, and get to your classroom.
 
@@ -199,6 +199,10 @@ The teacher turns away, and says to the class, "You see what being lazy gets you
 
 She turns back to you, and whispers: "You Indians will never change, you know..."
 
-She turns back around
+She turns back around, and as she mutters some words that your mom would never allow you to use, you feel dumbfounded, and for the first time in your life, stunningly alone.
+
+// Interjection about racism
+
+
 
 -> END
