@@ -15,6 +15,227 @@ A story of love, thought, and knowledge. #CLASS: subtitle
 -> EDUCATION.Start
 
 
+// === Housing ===
+// = Start
+// Chapter 2: Housing # Home: chapter
+
+// {This is the first thing that Darryl sees in his life. It highlights all of the problems with housing in the reserve, from the quality of the house to the actual getting of one.}
+// 2003/7/21: Friday.
+
+
+// You have just been born. 
+
+// As you open your eyes, you scan the room around you. You see two figures standing before you, and you seem to be in a house. 
+
+// As you further examine the house, you see leakage stains, and mold covering large portions. Seeing this, you; 
+
+// + [Scream and begin to cry] -> Scream 
+// + [Remain quiet] -> Quiet
+
+// = Scream 
+// As you cry, one of the two people pick you up and bring you to another room. This room is decorated with colourful designs, of which you immediately find appealing. 
+
+// You get placed in a crib, and the older figure proceeds to caress your head, and leave the room. 
+
+// As the other person is about to leave the room, you are drawn to the design on the walls of the room. A seemingly star-like wallpaper is illustrated on the wall but is stopped in its tracks by a huge stain of water smack in the middle of the wall in front of you. 
+
+// Disgusted by all the damage in the household, you doze off and go to sleep. 
+
+// After waking, you yell a bit, and your parents bring you back to the main room. 
+
+// You see a fire under a pot which seems to have water in it, and wonder what to do. 
+
+// + [Remain quiet and analyze your surroundings, cuz’ you a smart baby.] -> Quiet again
+// + [Be extra and scream, again.] -> Scream and kick
+
+
+// = Quiet
+// As you remain quiet to the damage in the house, you see someone preparing water for you in the corner of your eye. 
+
+// Behind them, you see a pot with a clear liquid within the pot on top of a fire inside the house. 
+
+// + [Scream and kick recklessly at the sight of fire] -> Scream and kick 
+// + [Remain quiet yet again and watch] -> Quiet again
+
+// = Scream and kick 
+// After seeing the fire in your house, you scream excessively loud, catching the attention of the two other figures, who seem to be your parents. 
+
+// The adult near the flame panics and pours the liquid from the pot into a sippy cup and rushes towards you. 
+
+// As the adult helps you drink the water (female you presume), you watch the pot and notice a dark brown layer residing above the clear liquid. 
+
+// In another pot beside it, which is not above a fire, you see no such layer. 
+
+// Starstruck by the fact that you are being made to drink dirty water, you rampage, and scream. 
+
+// At the sight of this, your parents pick you up, take you to a different room, and place you in a crib. 
+
+// At the sight of many toys hanging above your head, you doze off into a peaceful slumber.
+
+// -> continue1
+
+// = Quiet again
+// With your newfound discovery of your interest of fire, you silently watch as your mother stirs the liquid in the pot. 
+
+// After further analyzing the pot, you notice a dark brown layer residing above the clear liquid. 
+
+// In another pot beside it, which is not above a fire, you see no such layer.
+
+// With your piqued interest, you reach a crossroads. Should you…
+
+// + [Point and yell at the pot like an utter idiot, all while possibly obtaining info] -> Point and yell 
+// + [Stay just how you are, because you ain’t no idiot. You a boss baby] -> Stay just how you are
+
+// = Point and yell
+// You point directly at the pot, and attempt to yell “I DON’T WANT NO DIRTY WATER! WHAT IS THAT?” 
+
+// But in reality, all that comes out is a bit of “Goo goo” and some “Ga ga”
+
+// At the sight of this, your father lifts you up, and takes you into another room, and proceeds to place you in a crib.
+
+// -> continue1 
+
+// At the sight of many toys hanging above your head, you doze off into a peaceful slumber.
+
+// = Stay how you are
+// After a couple minutes, the adult near the flame pours the liquid from the pot into a sippy cup and rushes towards you. 
+
+// As the adult helps you drink the water (female you presume), you slowly become drowsy. The two adults notice this, and one picks you up, brings you to another room, and places you in a crib, in which you fall asleep.
+
+// -> continue1
+
+// 2008/6/22 # CLASS: Sunday
+// = continue1
+// “AHHH!”
+
+// You abruptly wake up after experiencing a vivid dream about your past. Weird, huh?
+
+// As you collect yourself, you hear Kainai, your mother, calling you from downstairs. 
+
+// “Everything all right?!? I hope you’re okay Darr’!” your mother says.
+
+// “For the last time, my name is Darryl, not Den, mother.” you respond, with an extremely high amount of attitude.
+
+// She remains silent. How nice.
+
+// Before getting ready to go downstairs, you see a newspaper. Maybe it could help distract yourself from Dad’s rambling? But it could also lead to your dad yelling at you!
+
+// + [Take the newspaper, and scan over it] -> take and scan
+// + [Leave the newspaper] -> leave newspaper
+
+// You begin to read, and see reports about how 61 First Nations reserves, yours included, are still under a boil water advisory. 
+
+// Not only that, but you see a stat suggesting that about 20% of First Nations households are overly crowded, with at least 3 families per home. 
+// Before you can read more, your thoughts are interrupted by your father, who yells “DARRYL! GET DOWN HERE!”
+
+// Directly his scream, you walk down the stairs, all while going VERY slowly, to make sure you don’t break any floorboards.
+
+// “Don’t bother anymore Darryl. Those folks from the government have no intention to fix our houses. Never did, never will.” says your father, Nakoda.
+
+// + [Question your father, and ask him to expand] -> questionFather 
+// + [Remain silent to avoid another one of your fathers’ tangents, and pretend something more interesting happened] -> avoidConvo
+
+// = questionFather
+// “Father, I haven’t heard of such a thing, but I did see a newspaper about it this morning. Sadly, I didn’t read it. Care to further explain?” you say.
+
+// “Why am I not surprised that you know nothing about this?” he responds angrily.
+
+// “You should invest more time learning about your culture, instead of playing foolish games outside!” he responds with a LOT of annoyance. 
+
+// “Yes father, I’m sorry. But I’d really like to understand what you are talking about now!” you respond with a pleading voice. 
+
+// “Well… simply put, there’s a lot. Approx. 20% of First Nations in reserves live in extremely overcrowded houses, and that since 2016, regardless of any promises the government has made, 61 out of 132 reserves that were until a boil water advisory, still are.” he says 
+
+// You show clear dismay. How could have never heard of such a thing?! 
+
+// “But that’s not it. The government constantly refuses to come and fix anything that breaks around here. The reason our house, or all houses in our area for a matter of fact are covered in so much mold is quite literally because of the over-population, which creates an excess amount of humidity.” he continues. 
+
+// “Mhm. Wow.” you say. 
+
+// You find yourself dumbfounded. How could someone possibly respond to that? 
+
+// To avoid further conversation, you… 
+
+// + [Remain quiet and sit in boredom] -> washroom 
+// + [Go to the bathroom. It’s always a solution, you know?] -> washroom 
+
+// = avoidConvo
+
+// As you attempt to dodge a bullet by avoiding the conversation regarding the government with your father, you look out the window and pretend you have seen something very interesting 
+
+// As you continue avoiding conversation, your thoughts get interrupted by your father attempting to catch your attention once again. 
+
+// “Darryl! Did you hear me? Have you heard anything about the water advisories, or the household overcrowdedness? 
+
+// You sigh. 
+
+// + {newspaper} [Tell him what you read] -> respond 
+// + {not newspaper} [Apologize for not knowing anything] -> apologize 
+
+// =apologize 
+// “Father, I haven’t heard of such a thing, but I did see a newspaper about it this morning. Sadly, I didn’t read it. Care to further explain?” you say.
+
+// “Why am I not surprised that you know nothing about this?” he responds angrily.
+
+// “You should invest more time learning about your culture, instead of playing foolish games outside!” he responds with a LOT of annoyance. 
+
+// “Yes father, I’m sorry. But I’d really like to understand what you are talking about now!” you respond with a pleading voice. 
+
+// “Well… simply put, there’s a lot. Approx. 20% of First Nations in reserves live in extremely overcrowded houses, and that since 2016, regardless of any promises the government has made, 61 out of 132 reserves that were until a boil water advisory, still are.” he says 
+
+// You show clear dismay. How could you have never heard of such a thing?! 
+
+// “But that’s not it. The government constantly refuses to come and fix anything that breaks around here. The reason our house, or all houses in our area for a matter of fact are covered in so much mold is quite literally because of the over-population, which creates an excess amount of humidity.” he continues. 
+
+
+// = respond
+// “Yes father, for your information, I have in fact heard about all this.” you respond. 
+
+// “Oh yeah? What have you heard, may I ask?” your father responds. 
+
+// “That approx. 20% of First Nations in reserves live in extremely overcrowded houses, and that since 2016, regardless of any promises the government has made, 61 out of 132 reserves that were until a boil water advisory, still are.” you state confidently. 
+
+// “Mhmph.” your father responds. He seems to be just a little proud, but doesn’t want to show it. 
+
+// “You’re right… but there’s a lot more than that. The government constantly refuses to come and fix anything that breaks around here. The reason our house, or all houses in our area for a matter of fact are covered in so much mold is quite literally because of the over-population, which creates an excess amount of humidity.” he says 
+
+// “I’m tired of waiting, and waiting. I’ve come to the conclusion that they will never help us.” he concludes. 
+
+// You find yourself dumbfounded. How does one respond to that? 
+
+
+// + [Remain quiet and sit in boredom] -> washroom 
+// + [Go to the bathroom. It’s always a solution, you know?] -> washroom 
+
+// = washroom 
+// Regardless of what you wanted to do, you decide that going to the washroom is probably the best option, as you honestly do need to go to the washroom. 
+
+// As you walk towards the bathroom door, you grab the door handle, ready to open the door.  But… 
+
+// The handle comes off and ends up in your hand. 
+
+// You sigh, alas not being surprised whatsoever. 
+
+// When you analyze the doorknob in your hand, you notice a scab hiding behind the knob. You’ve heard that people have been experiencing these types of side effects from the moisture, but you didn’t think that you’d be one of the victims. 
+
+// You kick the door open, and after you had a conversation with your dad, you see what he really meant. 
+
+// You see dirty water scattered across the bathroom, and mold in literally every spot of the wall there is. 
+
+// Is this really the future that was set out for you? Living in a house in which no one outside of it cares about you? A house which is crippling from the inside, and the outside? 
+
+// Maybe you can change something about it one day…
+
+// Perhaps when you’re older… 
+
+// When you’re successful… 
+
+// If you ever actually become successful, that is…  
+
+// But as you think, the first step to all that, is school. 
+
+
+
 === EDUCATION ===
 = Start
 Chapter 2: Education # CLASS: chapter
@@ -311,7 +532,11 @@ Should he continue up until twelfth?
 * [Continue] -> Questions
 
 = Questions
-2018/10/04 # CLASS: date
+2017/10/04 # CLASS: date
+
+// Interjection: Darryl is now in 9th grade, and he is wondering whether or not he should drop out.
+
+4:50 PM # CLASS: time
 
 You are standing on the edge of the community docks.
 
@@ -319,6 +544,84 @@ It's often brought you peace in troubled times.
 
 And right now, all that you really need is peace.
 
-Over the past couple of days, you've been thinking about your school career. 
+Over the past couple of days, you've been thinking about your school career.
+
+What have you learned in your nine years in this system? Nothing.
+
+Ever since you've started on that fateful day in 2008, you've been wondering about why you're still in this system.
+
+Last September, you came to Victoria High School expecting all of your friends and some more helpful teachers there, but you saw the exact same sights as your first day of school in 2008: a terrible teacher, ignorant parents, and a lack of friends.
+
+After Joseph left, you haven't really known what to do with yourself. He was your best friend, and you feel empty inside without him.
+
+You think about your dilapidated house, and how you feel helpless to do anything about it. How will school help you get a job?
+
+Thinking darker and darker thoughts, you drift off into a daydream.
+
+// Begin introduction about racism as low expectations
+
+* [Continue] -> Dock2
+
+= Dock2
+
+"Hey," a voice says behind you, jerking you back to reality.
+
+Turning around, you see a familiar face: "Joseph?" you ask.
+
+"Long time no see, huh."
+
+"Yeah, I was just wondering about you! What's up, what's been going on?"
+
+"In all honesty, nothing too much. I came here with a proposition for you..."
+
+This proposition was one that surprised you: apparently Joseph had been running a drug business behind everybody's back, and he came to you looking for help running it.
+
+"We have similar minds, remember first grade? We both hated that teacher," he says.
+
+"Make your decision by the end of the day. I can't wait forever," he warns.
+
+"Wait," you say.
+
+"I've made up my decision."
+
+* [Help] -> JosephDrug
+* [Don't Help] -> NoDrug
+
+= JosephDrug
+
+"I'll help," you reply.
+
+Smiling, Joseph replies, "I knew I could count on you. My old friend, welcome back."
+
+// Begin interjection about drugs as symbols in story
+
+* [Continue] -> Continue6
+
+= NoDrug
+
+You reply, "Hey. I've known you for a long time, but you doing this drug business is really not cool with me. I can't do this for you."
+
+Smiling, Joseph replies, "I knew you would say something like that. You sound half-hearted, so there's still hope."
+
+"Hmm?"
+
+"I can pay you well."
+
+Noticing your attention being heightened, he says, "Yeah, I can pay you. Don't pretend like you don't need it."
+
+Realizing that you <em>do</em> need the money, you say, "Alright, I can help."
+
+// Begin interjection about drugs as symbols in story
+
+* [Continue] -> Continue6
+
+= Continue6
+2017/10/05 # CLASS: date
+
+It's the next day, and you've spent all night wondering about your decision to help Joseph out with his drug business.
+
+Your thoughts flit here and there, thinking about school and its uselessness, and then you think about your parents. They would be proud to have some extra money...
+
+
 
 -> END
