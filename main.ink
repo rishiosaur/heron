@@ -319,6 +319,6 @@ It's often brought you peace in troubled times.
 
 And right now, all that you really need is peace.
 
-
+Over the past couple of days, you've been thinking about your school career. 
 
 -> END
