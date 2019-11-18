@@ -139,8 +139,12 @@ Joseph whispers in a small voice: "Cree."
 
 You reply, "What's wrong with that?"
 
-//Begin interjection about residential schools
+// And now, our little protagonist starts to realize that maybe he doesn't fit in: maybe him and Joshua are just outliers; he has to travel out of his city for school, but he's realized 
 
+* [Continue] -> Continue3
+
+
+= Continue3
 It's 1:00 PM. Lunchtime is over.
 
 You head back to your classroom, where you now have math class. You've always enjoyed counting, so math class must be a blast!
@@ -149,7 +153,52 @@ However, when you get there, your teacher is also there, giving out books...
 
 "These will be your textbooks for the year." she says.
 
-When she gives you your book, you see that it is in terrible condition: the spine is falling apart, 
+When she gives you your book, you see that it is in terrible condition: the spine is falling apart, and the pages are ripped.
 
+You hear her mutter under her breath, "These damn politicians and their stupid funding. I'll eat my kettle if we get another dollar."
+
+// Begin interjection about funding
+* [Continue] -> Continue4
+
+= Continue4
+
+Math class is a bore. You and Joseph try to focus on the teacher, but when even <em>she</em> isn't interested, how are you supposed to be?
+
+You struggle through the class, half asleep, just waiting until it ends and you can go home.
+
+* [Fall asleep] -> Asleep
+* [Keep thinking] -> Think
+
+= Asleep
+
+As you fall asleep, you think about the pain of being here.
+
+As the world fades to black, you long for the September breeze, and you laying down on your front lawn, just like you used to.
+
+But that's all gone now.
+
+* [Continue] -> Continue5Sleep
+
+= Think
+
+You drift off into your own world, thinking about the world that you're in now.
+
+= Continue5Sleep
+
+"Hey!" a raspy voice yells into your ear, startling you awake.
+
+Getting up, you look around at your surroundings. Who yelled?
+
+You look to your left, and you get even more frightened; there is a large, raving bulldog right next to you.
+
+However, the dog barks: "Did you get what I was saying?"
+
+Quickly realizing that this is the teacher, you say, "N-no ma'am."
+
+The teacher turns away, and says to the class, "You see what being lazy gets you? Nothing. Pay attention in class, you lot."
+
+She turns back to you, and whispers: "You Indians will never change, you know..."
+
+She turns back around
 
 -> END
