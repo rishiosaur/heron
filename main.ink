@@ -11,7 +11,9 @@ A story of love, thought, and knowledge. #CLASS: subtitle
 === Intro ===
 
 = Start
-<hr/>
+//
+
+
 -> Housing.Start
 
 === Housing ===
@@ -30,7 +32,7 @@ As you further examine the house, you see leakage stains, and mold covering larg
 + [Remain quiet] -> Quiet2
 
 = Scream 
-As you cry, one of the two people pick you up and bring you to another room. This room is decorated with colourful designs, of which you immediately find appealing. 
+As you cry, one of the two people pick you up and bring you to another room.
 
 You get placed in a crib, and the older figure proceeds to caress your head, and leave the room. 
 
@@ -38,16 +40,14 @@ As the other person is about to leave the room, you are drawn to the design on t
 
 Disgusted by all the damage in the household, you doze off and go to sleep. 
 
-After waking, you yell a bit, and your parents bring you back to the main room. 
-
-You see a fire under a pot which seems to have water in it, and wonder what to do. 
+Once you wake up, you see a fire under a pot which seems to have water in it, and wonder what to do. 
 
 + [Remain quiet] -> Quiet2
 + [Scream once more] -> Scream2
 
 
 = Quiet2
-As you remain quiet to the damage in the house, you see someone preparing water for you in the corner of your eye. 
+As you remain quiet, you see someone preparing water for you in the corner of your eye. 
 
 Behind them, you see a pot with a clear liquid within the pot on top of a fire inside the house. 
 
@@ -59,11 +59,9 @@ After seeing the fire in your house, you scream excessively loud, catching the a
 
 The adult near the flame panics and pours the liquid from the pot into a cup and rushes towards you. 
 
-As the adult helps you drink the water (female you presume), you watch the pot and notice a dark brown layer residing above the clear liquid. 
+There's a dark brown layer on the liquid
 
-In another pot beside it, which is not above a fire, you see no such layer. 
-
-Starstruck by the fact that you are being made to drink dirty water, you rampage, and scream. 
+Starstruck by the fact that you are being made to drink apparently dirty water, you rampage, and scream. 
 
 At the sight of this, your parents pick you up, take you to a different room, and place you in a crib. 
 
@@ -99,7 +97,7 @@ You see many toys above you, and this relaxation puts you to sleep.
 = Stay
 After a couple minutes, the adult near the flame pours the liquid from the pot into a sippy cup and rushes towards you. 
 
-As the adult helps you drink the water (female you presume), you slowly become drowsy. The two adults notice this, and one picks you up, brings you to another room, and places you in a crib, in which you fall asleep.
+As the adult helps you drink the water, you slowly become drowsy. The two adults notice this, and one picks you up, brings you to another room, and places you in a crib, in which you fall asleep.
 
 -> continue1
 
@@ -113,15 +111,9 @@ You are now 4 years old.
 
 You abruptly wake up after experiencing a vivid dream about your past. Weird, huh?
 
-As you collect yourself, you hear Kainai, your mother, calling you from downstairs. 
+“Everything all right?!? I hope you’re okay Darr’!” your mother calls.
 
-“Everything all right?!? I hope you’re okay Darr’!” your mother says.
-
-“For the last time, my name is Darryl, not Darr', mother.” you respond, with an extremely high amount of attitude.
-
-She remains silent. How nice.
-
-Before getting ready to go downstairs, you see a newspaper. Maybe it could help distract yourself from Dad’s rambling? But it could also lead to your dad yelling at you!
+Before getting ready to go downstairs, you see a newspaper, with the morning news.
 
 + [Take the newspaper, and scan over it] -> takeScan
 + [Leave the newspaper] -> avoidConvo
@@ -129,17 +121,18 @@ Before getting ready to go downstairs, you see a newspaper. Maybe it could help 
 = takeScan
 You begin to read, and see reports about how 61 First Nations reserves, yours included, are still under a boil water advisory. 
 
-Not only that, but you see a stat suggesting that about 20% of First Nations households are overly crowded, with at least 3 families per home. 
-Before you can read more, your thoughts are interrupted by your father, who yells “DARRYL! GET DOWN HERE!”
+Before you can read more, your thoughts are interrupted by your father, who calls for you.
 
-Directly his scream, you walk down the stairs, all while going VERY slowly, to make sure you don’t break any floorboards.
+You walk down the stairs, all while going slowly, to make sure you don’t break any floorboards.
 
 	// Interjection: As portrayed here, household items which were on the verge of breaking were not at all uncommon. When household utilities were broken, like stoves, or in this situation, a floorboard, it often took very long to get fixed as no one came in to fix it for a while, and families often just fixed it themselves, or got used to it. 
 
-“Don’t bother anymore Darryl. Those folks from the government have no intention to fix our houses. Never did, never will.” says your father, Nakoda.
+He sees you trying to read the newspaper.
 
-+ [Question your father, and ask him to expand] -> questionF 
-+ [Remain silent to avoid another one of your fathers’ tangents, and pretend something more interesting happened] -> avoidConvo
+“Don’t bother, Darryl. Those folks from the government have no intention to fix our houses. Never did, never will.” says your father.
+
++ [Question your father] -> questionF 
++ [Remain silent] -> avoidConvo
 
 = questionF
 “Father, I not hear such things, but I see a newspaper about it this morning. Sadly, I read slowly it, and not understand. You explain?” you say.
@@ -152,8 +145,6 @@ Directly his scream, you walk down the stairs, all while going VERY slowly, to m
 
 “Well… simply put, there’s a lot. Approx. 20% of First Nations in reserves live in extremely overcrowded houses, and that since 2016, regardless of any promises the government has made, 61 out of 132 reserves that were until a boil water advisory, still are.” he says 
 
-You show clear dismay. This is literally exactly what you read in the newspaper. 
-
 “But that’s not it. The government constantly refuses to come and fix anything that breaks around here. The reason our house, or all houses in our area for a matter of fact are covered in so much mold is quite literally because of the over-population, which creates an excess amount of humidity.” he continues. 
 
 // Interjection: So, as summarized here, we see Darryl’s consistent exposure to an extremely unhealthy living environment, and its side effects. The government dedicates minimal amounts of time to renovate the homes of First Nations, and as portrayed during the conclusion of the first portion of the game, these unhealthy living environments prove to lead to harmful physical effects. 
@@ -164,8 +155,8 @@ You find yourself dumbfounded. How does someone possibly respond to that?
 
 To avoid further conversation, you… 
 
-+ [Remain quiet and sit in boredom] -> washroom 
-+ [Go to the bathroom. It’s always a solution, you know?] -> washroom 
++ [Sit around in boredom] -> washroom 
++ [Go to the bathroom] -> washroom 
 
 = avoidConvo
 
@@ -178,22 +169,18 @@ As you continue avoiding conversation, your thoughts get interrupted by your fat
 You sigh. 
 
 + [Tell him what you read] -> respond 
-+  [Apologize for not knowing anything] -> apologize 
++ [Apologize] -> apologize 
 
 =apologize 
-“Father, I not hear of such thing, but I seen newspaper about it this morning. Sadly, I bidn’t wread it. Can you please to explain?” you say, in a childish voice.
+“Father, I didn't hear of such a thing, but I saw it in the newspaper. I don't understand,” you say, in a childish voice.
 
 “Why am I not surprised that you know nothing about this?” he responds angrily.
 
-“You should invest more time learning about your culture, instead of playing foolish games outside!” he responds with a LOT of annoyance. 
+“You should invest more time learning about your culture, instead of playing foolish games outside!” he responds with annoyance.  
 
-“Yes father, I be sorry. But I want to like to understand what you is talking about right now!” you respond with a pleading voice. 
-
-“Well… simply put, there’s a lot. 20% of First Nations in reserves live in extremely overcrowded houses, and since 2016, regardless of any promises the government has made, 61 out of 132 reserves that were until a boil water advisory, still are,” he says.
+“Simply put, there’s a lot. 20% of First Nations in reserves live in extremely overcrowded houses, and since 2016, regardless of any promises the government has made, 61 out of 132 reserves that were until a boil water advisory, still are,” he says.
 
 You show clear dismay. How could you have never heard of such a thing?! 
-
-“But that’s not it. The government constantly refuses to come and fix anything that breaks around here. The reason our house, or all houses in our area for a matter of fact are covered in so much mold is quite literally because of the over-population, which creates an excess amount of humidity,” he continues.
 
 // Interjection: So, as summarized here, we see Darryl’s consistent exposure to an extremely unhealthy living environment, and its side effects. The government dedicates minimal amounts of time to renovate the homes of First Nations, and as portrayed during the conclusion of the first portion of the game, these unhealthy living environments prove to lead to harmful physical effects. 
 
@@ -205,11 +192,11 @@ You show clear dismay. How could you have never heard of such a thing?!
 
 “Oh yeah? What have you heard, may I ask?” your father responds. 
 
-“That a big number of 20% of First Nations in reserves live in very obercrowded houses, and that since 2016, regardless of any promises the government has made, 61 made of out 132 reserves that were a boil water advisory, still are.” you state confidently. 
+“That a big number of 20% of First Nations in reserves live in overcrowded houses, and that since 2016, regardless of any promises the government has made, 61 made of out 132 reserves that were a boil water advisory.” you state confidently. 
 
 “Mhmph.” your father responds. He seems to be just a little proud, but doesn’t want to show it. 
 
-“You’re right… but there’s a lot more than that. The government constantly refuses to come and fix anything that breaks around here. The reason our house, or all houses in our area for a matter of fact are covered in so much mold is quite literally because of the over-population, which creates an excess amount of humidity.” he says 
+“You’re right… but there’s a lot more than that. The government constantly refuses to come and fix anything that breaks around here. The reason our house, or all houses in our area for a matter of fact are covered in so much mold is quite literally because of the over-population, which creates an excess amount of humidity.” he says.
 
 // Interjection: So, as summarized here, we see Darryl’s consistent exposure to an extremely unhealthy living environment, and its side effects. The government dedicates minimal amounts of time to renovate the homes of First Nations, and as portrayed during the conclusion of the first portion of the game, these unhealthy living environments prove to lead to harmful physical effects. 
 
@@ -224,27 +211,19 @@ You find yourself dumbfounded. How does one respond to that?
 = washroom 
 Regardless of what you wanted to do, you decide that going to the washroom is probably the best option, as you honestly do need to go to the washroom. 
 
-As you walk towards the bathroom door, you grab the door handle, ready to open the door.  But… 
+As you walk towards the bathroom door, you grab the door handle, ready to open the door.
 
 The handle comes off and ends up in your hand. 
 
-You sigh, alas not being surprised whatsoever. 
-
-When you analyze the doorknob in your hand, you notice a scab hiding behind the knob. You’ve heard that people have been experiencing these types of side effects from the moisture, but you didn’t think that you’d be one of the victims. 
+You sigh, alas not being surprised whatsoever.
 
 You kick the door open, and after you had a conversation with your dad, you see what he really meant. 
 
-You see dirty water scattered across the bathroom, and mold in literally every spot of the wall there is. 
+You see dirty water scattered across the bathroom, and mold in every spot of the wall there is. 
 
-Is this really the future that was set out for you? Living in a house in which no one outside of it cares about you? A house which is crippling from the inside, and the outside? 
+Maybe you can change something about it one day, when you're older.
 
-Maybe you can change something about it one day…
-
-Perhaps when you’re older… 
-
-When you’re successful… 
-
-If you ever actually become successful, that is…  
+When you’re successful…
 
 But as you think, the first step to all that, is school. 
 
@@ -260,7 +239,7 @@ Chapter 2: Education # CLASS: chapter
 
 You are now 5 years old.
 
-It’s the first day of school, and you’re excited for it; you finally get to be on your own for the first time in your life. This is the start of an independent life.
+It’s the first day of school, and you’re excited for it; you finally get to be on your own for the first time in your life.
 
 7:25 AM # CLASS: time
 
@@ -270,7 +249,7 @@ You are getting ready to start your journey to the school with your parents, and
 
 You finally reach the school after 20 minutes of walking.
 
-Class doesn’t start until 8:00, so you look around the school to try to scope things out. Your parents have to leave for work, so you're left all to yourself.
+Class doesn’t start until 8:00, so you look around the school to try to scope things out, after your parents leave for work.
 
 You’re at the front of the school, so which way do you go?
 
@@ -302,7 +281,6 @@ There must be something more interesting on the other side, right?
 + [Continue] -> Continue1
 + [Go back] -> Back1
 
-
 = Continue1
 
 8:00 AM # CLASS: time
@@ -317,17 +295,13 @@ You’re back inside the building, and you look inside your classroom, for the d
 
 It looks like attendance is being called, so you knock on the door.
 
-Knock, knock, knock.
-
 A cross-looking woman opens the door, and says: “You’re late. Darryl, I presume?”
 
 “What does presume mean?” you ask.
 
 “Sit down, insolent child.”
 
-You walk in, and see all of your classmates sitting at their desks, looking rather panicky. You find the nearest open seat, and sit down, wondering if school will be as good as you think it will be.
-
-In all honesty, the only reason you want to go to school is to escape your horrid house. It would be a nice change of rhythm for you.
+You walk in, and see all of your classmates sitting at their desks. You find the nearest open seat, and sit down, wondering if school will be as good as you think it will be.
 
 * [Continue] -> Continue2
 
@@ -341,28 +315,22 @@ The doors are locked, so you look inside.
 
 It looks like attendance is being called, so you knock on the door, not wanting to be marked absent.
 
-Knock, knock, knock.
-
 A cross-looking woman opens the door, and says: “You’re late. Darryl, I presume?”
 
 “What does presume mean?” you ask.
 
 “Sit down, insolent child.”
 
-You walk in, and see all of your classmates sitting at their desks, looking rather panicky. You find the nearest open seat, and sit down, wondering if school will be as good as you think it will be.
-
-In all honesty, the only reason you want to go to school is to escape your horrid house. It would be a nice change of rhythm.
+You walk in, and see all of your classmates sitting at their desks. You find the nearest open seat, and sit down, wondering if school will be as good as you think it will be.
 
 * [Continue] -> Continue2
 
 = Continue2
 12:15 PM # CLASS: time
 
-You've made a friend, his name is Joseph McKay, and he seems pretty nice!
+You've made a friend, his name is Joseph McKay, and he seems pretty nice. You spend lunch talking with each other.
 
-You eat lunch together, talking about random things.
-
-However, the topic of school soon comes up, and you voice your concerns, saying: "I don't think that our teacher is very nice."
+Soon, the topic of school soon comes up, and you voice your concerns, saying: "I don't think that our teacher is very nice."
 
 Joseph replies: "Yeah, me too."
 
@@ -443,8 +411,6 @@ The teacher turns away, and says to the class, "You see what being lazy gets you
 
 She turns back to you, and whispers: "You Indians will never change, you know..."
 
-She turns back around, and as she mutters some words that your mom would never allow you to use, you feel dumbfounded, and for the first time in your life, stunningly alone.
-
 // Interjection about racism
 After this, you keep up with the class, albeit in a daze. What did she mean by Indian?
 * [Continue] -> Home1
@@ -465,12 +431,8 @@ The teacher turns away, and says to the class, "You see what being lazy gets you
 
 She turns back to you, and whispers: "You Indians will never change, you know..."
 
-She turns back around, and as she mutters some words that your mom would never allow you to use, you feel dumbfounded, and for the first time in your life, stunningly alone.
-
-// Interjection about racism
 After this, you keep up with the class, albeit in a daze. What did she mean by Indian?
-
-Soon, the end of class comes at 3:10 PM, and you quickly note down the homework, excited for the end of the day.
+// Interjection about racism
 * [Continue] -> Home1
 
 = Home1
@@ -480,13 +442,11 @@ It's finally time to go back home, and after struggling through the full day, yo
 
 You go back home with them, and they start asking you questions about your first day.
 
-"How was it? You went out all on your own, like a big boy!" your mother asks.
+"How was it?" your mother asks.
 
 "It wasn't too bad, I made a new friend, Joseph!" You respond, rather dejectedly.
 
-"Honey, what's wrong?" your father asks.
-
-"It's just our teacher. She isn't very nice, and we didn't really do anything."
+"We also have a pretty bad teacher, she is mean."
 
 "How is she mean? Did she do anything to you?"
 
@@ -501,21 +461,13 @@ Your parents look at each other with worried faces, and no more words are spoken
 
 You've finally reached home after what might have been the longest day of your life.
 
-You go to your room, which previously was meant solely for sleeping, but now has been turned into your studying area.
-
 You sit down at your desk, and start doing your homework.
 
-Opening your textbook, you're greeted with an unwelcome sight: rows and rows of numbers and strange symbols.
-
-These are very foreign to you; you weren't paying attention in Math class, for God's sake! How are you going to be able to do all this?
+This homework is foreign to you; you weren't paying attention in Math class, for God's sake! How are you going to be able to do all this?
 
 Looking for help, you turn to your parents.
 
-Going to your father, you ask, "Can you help me with my ma-"
-
-You are interrupted by your mother making a gesture across her neck, but you tilt your head on your side; you don't understand.
-
-You try asking your dad once more: "Can you help me with my math homework?"
+Going to your father, you ask, "Can you help me with my math homework?"
 
 However, your dad does something unexpected: he turns angry.
 
@@ -558,9 +510,7 @@ Should he continue up until twelfth?
 
 You are standing on the edge of the community docks.
 
-It's often brought you peace in troubled times.
-
-And right now, all that you really need is peace.
+It's often brought you peace in troubled times, something that you desperately need right now.
 
 Over the past couple of days, you've been thinking about your school career.
 
@@ -586,9 +536,7 @@ Thinking darker and darker thoughts, you drift off into a daydream.
 
 Turning around, you see a familiar face: "Joseph?" you ask.
 
-"Long time no see, huh."
-
-"Yeah, I was just wondering about you! What's up, what's been going on?"
+"Long time no see, huh. What's going on?"
 
 "In all honesty, nothing too much. I came here with a proposition for you..."
 
@@ -619,11 +567,7 @@ Smiling, Joseph replies, "I knew I could count on you. My old friend, welcome ba
 
 You reply, "Hey. I've known you for a long time, but you doing this drug business is really not cool with me. I can't do this for you."
 
-Smiling, Joseph replies, "I knew you would say something like that. You sound half-hearted, so there's still hope."
-
-"Hmm?"
-
-"I can pay you well."
+Smiling, Joseph replies, "I knew you would say something like that. I can pay you."
 
 Noticing your attention being heightened, he says, "Yeah, I can pay you. Don't pretend like you don't need it."
 
@@ -664,13 +608,9 @@ Yesterday, Joseph gave you a slip of paper telling you where to meet him, in the
 
 Upon arrival, you see a new sight: powders everywhere, strange green things around.
 
-People with bloodshot eyes surround you on every angle.
-
 Joseph is in a corner, talking to somebody with a backpack on.
 
-However, these sights are not the weirdest things that you see. 
-
-The strangest thing is the amount of people like <em>you</em> there.
+However, the strangest thing is the amount of people like <em>you</em> there.
 
 In school, you always feel like the odd one out, but here, you are just one of many!
 
@@ -684,8 +624,6 @@ He replies, "We have a delivery coming in five minutes. Go grab it and come back
 = AskSalary
 
 "Hey, Joseph?" you ask.
-
-"Yeah?"
 
 "How am I getting paid?"
 
@@ -714,12 +652,6 @@ Joseph is back in his corner, chatting away with his acquaintance.
 
 When you go to speak with him, he thanks you, and goes back to chatting.
 
-You choose not to talk to him about your payment, and go back home.
-
-* [Continue] -> Home3
-
-= Home3
-
 4:15 PM # CLASS: time
 
 Once you reach home, you are greeted once again by the stench of poverty.
@@ -732,7 +664,7 @@ You hope that this new job will help you out with this issue, and you head back 
 
 2018/6/25 # CLASS: date
 
-2am # CLASS: time
+2:00 AM # CLASS: time
 
 It's the end of the school year, and you have awoken from a nightmare in which you are homeless.
 
@@ -851,9 +783,9 @@ In a couple of days, you are caught.
 
 = Jail
 
-You are escorted to a small cell. The room is clean and its white walls would have brought you tranquillity if it weren’t for your location right now. The air is way too heavy to enjoy any sort of peace. 
+You are escorted to a small cell. The room is clean and it has unnerving, white walls.
 
-A few days pass and you are sitting in the common area with the other inmates as guards stand stationed around the room. You survey the area and notice that over a third of the inmates are first nation people like you.
+A few days pass and you are sitting in the common area with the other inmates as guards stand stationed around the room. You survey the area and notice that over a third of the inmates are First Nations people like you.
 
 You anxiousness spikes as you feel your withdrawal symptoms kicking in again. And here you were hoping for some peace. Well, going off that much marijuana all of a sudden isn’t good for anyone’s body.
 
@@ -937,7 +869,7 @@ He smiles and shrugs. “Nothing”
 
 “But shouldn’t you be out of here then?”
 
-The temperature of the room drops a couple of degrees.”That’s the thing.” He shifts. “You can’t trust this justice system. Us first nations always get the short end of the stick. They preach about equity and fairness but they could care less about what happens to us.”
+The temperature of the room drops a couple of degrees.”That’s the thing.” He shifts. “You can’t trust this justice system. We Aboriginals always get the short end of the stick. They preach about equity and fairness but they could care less about what happens to us.”
 
 His face falls. 
 
@@ -1064,16 +996,18 @@ You pretend not to notice and avert your gaze. She bounds up to you and taps you
 
 “Hi, what are you doing out here? You’ve been standing here for a while. Waiting for someone?” she asks.
 
-You are a bit taken aback by how straightforward she is. But you are trying to be a good person so you reply “No, I came to this town for the first time a few hours ago.” You give her a sheepish smile. “Actually, I was hoping to settle but I really don’t know have a place to stay.”
+“No, I came to this town for the first time a few hours ago,” you say. 
 
-Her smile widens. “I can help you with that. I work at a place and if you come with me I can ask to get you a job. They give you a place to live as well.”
+You give her a sheepish smile. “Actually, I was hoping to settle but I really don’t know have a place to stay.”
+
+Her smile widens. “I can help you with that. I work at a place and if you come with me I can ask to get you a job.”
 
 * [Accept her proposition] -> Accept
 * [Ignore her] -> Decline
 
 = Accept
 
-Something feels off about it but you decide you are just being paranoid and follow her. She leads you to an isolated warehouse. It looks like it hasn’t been used for at least a decade. 
+Something feels off about it but you decide you are just being paranoid and follow her. She leads you to an isolated warehouse. It looks like it hasn’t been used for at least a decade.
 
 “You sure this is the place?” 
 
@@ -1099,10 +1033,69 @@ It sounds too good to be true. You know how those usually end up. You decline. S
 
 You find a job after a good month of searching. You are ecstatic when you get your first paycheck. It feels like you’re finally getting somewhere. After you calm down, you realize that it’s barely enough to cover the rent for the tiny, dirty apartment you found. 
 
-It’s by no means a great place. The entire place was filthy. The space is cramped with other men and you get yelled at every other hour. You can sense the distaste rolling off the other guys at your ethnicity. Every minute, someone makes an Indian joke. But you’re earning money, so you deal with it.
-
 For a few months you scrape by, but then you suddenly get laid off your job. Your protests fall on deaf ears. Losing your only source of income, you try to find another job. You get rejected over and over again. Your lack of a diploma isn’t helping you. 
 
 You get kicked out of your apartment with your meagre belongings. You feel more and more hopeless as the last of your money and valuables goes towards food. 
 
-You don’t have anything anymore.
+Eventually, you have nothing.
+
+=== HEALTHCARE ===
+
+2026/1/15: Thursday # CLASS: date
+
+You are now 23 years old.
+
+You've been homeless for quite a while now, and you are feeling the effects.
+
+2pm # CLASS: time
+
+You find yourself under a bridge later that day with an odd feeling in your chest. You shrug it off. It’s probably not that serious. You’ve barely eaten in the last few days after all. You peer inside your knapsack to see if you have any more left. 
+
+Alas, you’ve run out. You going to have to find more if you want to survive. But with every passing minute, exhaustion hits you even more.
+
+* [Take a nap] -> Nap
+* [Search for food] -> Search
+
+= Nap
+
+Seeing as you are tired, you figure that it would be best to get some sleep to give you at least a little energy for the rest of the day. You look down and realize how filthy the pavement really is. But this is your fate, there really wasn’t any point in caring too much.
+
+You lay down on the freezing, disgusting ground trying to get a bit of shut-eye. 
+
+Just as you are about to fall asleep, a freezing gust of wind comes along leaving you shivering. You glance up to see small flakes of snow fluttering down to accompany the cold wind. You have a small pain in your chest, but you brush it off; it must be nothing, just the cold.
+
+You survey the area and spot an elderly man sleeping nearby. You notice a bag containing all his clothes beside him. Snow blankets the area as you lay on the ground freezing. All you want is for a thick coat to replace your thin long-sleeved shirt.
+
+After seeing the bag, you:
+
+* [Go through the old man's clothes for any thick layers to wear]
+* ["Man up" and force yourself to sleep.] -> Man
+
+= Man
+2:15 PM # CLASS: time
+
+Deciding to be the bigger person and not steal the elderly man’s clothes you force yourself to sleep. He needs them as much as you do.
+
+6:17 PM # CLASS: time
+
+"AAH!"
+
+You wake up screaming. The pain in your chest from before has seemingly exploded, you start to think about what it could be.
+
+Your mind wanders as you lay there whimpering and you think of how easy it would be to just escape it with a familiar hit of marijuana. 
+
+But instead, you just curl up tighter, determined to keep your promise of staying clean. You endure the insane amount of pain in your abdomen and pray that no creature has to be put through this pain.
+
+Determined to figure out why your pain levels spiked so quickly, you check yourself. Maybe you injured yourself while you were asleep? You notice a big bump on the lower part of your left lung. What type of insect bit you? Frightened, you seek help.
+
+But as you leave from under the bridge, you realize that you have no clue where help <em>is</em>.
+
+* [Continue] -> GasStation
+
+= GasStation
+
+Temporary
+
+= Search
+
+Temporary
