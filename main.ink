@@ -1,6 +1,6 @@
 # theme: dark
 
-<img src="heron.jpeg" class="cover">
+<iframe width="100%" height="500" src="https:\/\/www.youtube.com/embed/VdE2nU5zUBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Heron #CLASS: title
 A story of love, thought, and knowledge. #CLASS: subtitle
@@ -376,7 +376,7 @@ Joseph whispers in a small voice: "Cree."
 
 You reply, "What's wrong with that?"
 
-// And now, our little protagonist starts to realize that maybe he doesn't fit in: maybe him and Joshua are just outliers; he has to travel out of his city for school, but he's realized that not many people look like him. This starts to highlight the issue of racism in First Nations schools, as 
+// And now, our little protagonist starts to realize that maybe he doesn't fit in: maybe him and Joshua are just outliers; he has to travel out of his city for school, but he's realized that not many people look like him. This starts to highlight the issue of racism in First Nations schools, and we'll build on this point in later scenes.
 
 * [Continue] -> Continue3
 
@@ -393,7 +393,7 @@ When she gives you your book, you see that it is in terrible condition: the spin
 
 You hear her mutter under her breath, "These damn politicians and their stupid funding. I'll eat my kettle if we get another dollar."
 
-// Begin interjection about funding
+// Here, Darryl starts to see the problem of funding in education, and this is a severe problem for First Nations communities. See, funding is the main factor in any education system's functioning, and First Nations education has not been receiving the same amount as federally-mandated programs. This was supposed to be solved with Justin Trudeau coming into office in 2015, as he supposedly allowed communities 2.6 billion dollars for their education systems. However, this deal was not sustainable, as he later shifted this four-year deal to a 5 year one, distributing the 2.6 billion dollars about half a billion dollars per year. There are also significant problems with the rollback procedure of this deal, as much of the money is set to only be dealt with in 2020-21, which was not discussed as part of the deal. Another large problem with 
 * [Continue] -> Continue4
 
 = Continue4
@@ -530,6 +530,8 @@ You then travel to your room, with nobody to help you with your math homework.
 Sitting down, you realize: nobody's here to help you with <em>anything</em>.
 
 //Begin interjection about residential schools
+// Here, Darryl realizes that he cannot rely on anybody's help for anything in his life, just like a real First Nations student, and this is a direct effect of residential schools. See, residential schools 
+
 * [Continue] -> Part
 
 = Part
@@ -963,9 +965,13 @@ He sighs. You could feel the pressure that had stayed away for a couple of days 
 
 You keep talking to him. You move away from the heavy topics and you relax a bit. You don’t have to confront it right now.
 
+-> Meeting
+
 = Leave2
 
 You can’t handle talking about this right now. Everything felt suffocating. You make a few excuses and exit the room. You try to make it seem like you aren’t running away.
+
+-> Meeting
 
 = Meeting
 
