@@ -2,7 +2,7 @@
 
 
 
-# IMAGE: heron.jpeg
+<img src="heron.jpeg"/>
 Heron #CLASS: title
 A story of love, thought, and knowledge. #CLASS: subtitle
 
