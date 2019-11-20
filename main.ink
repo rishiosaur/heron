@@ -1,7 +1,8 @@
 # theme: dark
 
-<iframe width="100%" height="500" src="https:\/\/www.youtube.com/embed/8cvary4j2Kk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+# IMAGE: heron.jpeg
 Heron #CLASS: title
 A story of love, thought, and knowledge. #CLASS: subtitle
 
@@ -19,6 +20,8 @@ A story of love, thought, and knowledge. #CLASS: subtitle
 === Housing ===
 = Start
 Chapter 1: Housing # CLASS: chapter
+
+<iframe width="100%" height="500" src="https:\/\/www.youtube.com/embed/8cvary4j2Kk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 2003/7/21: A Friday. # CLASS: date
 
