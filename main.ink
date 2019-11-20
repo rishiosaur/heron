@@ -487,6 +487,8 @@ Sitting down, you realize: nobody's here to help you with <em>anything</em>.
 * [Continue] -> Part
 
 = Part
+<hr/>
+
 And so now, we reach a new stage in life.
 Darryl has become somewhat wise.
 He realizes that school is not meant to be;
@@ -498,6 +500,8 @@ You see, Darryl soon learns to pay this price.
 However, the education that he receives is variable, much like dice.
 Eventually, Darryl questions himself;
 Should he continue up until twelfth?
+
+<hr/>
 
 * [Continue] -> Questions
 
@@ -1162,6 +1166,8 @@ As everything shuts down, you try your best to whisper, “Mom, Dad? I love you.
 And with that, your eyes close, and the world fades to black. 
 
 The story of Darryl Sainnawap concludes. 
+
+<iframe width="100%" height="500" src="https:\/\/www.youtube.com/embed/rPE-sgdYeN0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 -> END
 
