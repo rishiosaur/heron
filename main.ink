@@ -82,7 +82,7 @@ With your piqued interest, you reach a crossroads. Should you…
 + [Stay just how you are] -> Stay
 
 = PandY
-You point directly at the pot, and attempt to yell “I DON’T WANT NO DIRTY WATER! WHAT IS THAT?” 
+You point directly at the pot, and attempt to yell “I DON’T WANT DIRTY WATER! WHAT IS THAT?” 
 
 But in reality, all that comes out is a bit of “Goo goo” and some “Ga ga”
 
@@ -160,7 +160,7 @@ To avoid further conversation, you…
 
 = avoidConvo
 
-As you attempt to dodge a bullet by avoiding the conversation regarding the government with your father, you look out the window and pretend you have seen something very interesting 
+You know that your father will talk for quite a lot when given the chance, so you pretend to become interested in something by the window.
 
 As you continue avoiding conversation, your thoughts get interrupted by your father attempting to catch your attention once again. 
 
@@ -172,7 +172,7 @@ You sigh.
 + [Apologize] -> apologize 
 
 =apologize 
-“Father, I didn't hear of such a thing, but I saw it in the newspaper. I don't understand,” you say, in a childish voice.
+“Father, I didn't hear of it, but I saw it in the newspaper. I don't understand,” you say.
 
 “Why am I not surprised that you know nothing about this?” he responds angrily.
 
@@ -698,6 +698,8 @@ You'll earn money from this job eventually, right?
 
 = Start
 
+Chapter 3: Justice # CLASS: chapter
+
 2018/9/14 # CLASS: date
 
 You enter the dingy alley once more to meet up with Joseph. The business is thriving with Joseph working in school and you in the streets, having dropped out of school.
@@ -1048,6 +1050,8 @@ Eventually, you have nothing.
 === HEALTHCARE ===
 
 = Start
+
+Chapter 3: Healthcare # CLASS: chapter
 
 2026/1/15: Thursday # CLASS: date
 
