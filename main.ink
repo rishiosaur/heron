@@ -1039,7 +1039,11 @@ You get kicked out of your apartment with your meagre belongings. You feel more 
 
 Eventually, you have nothing.
 
+* [Continue] -> HEALTHCARE.Start
+
 === HEALTHCARE ===
+
+= Start
 
 2026/1/15: Thursday # CLASS: date
 
@@ -1068,13 +1072,12 @@ You survey the area and spot an elderly man sleeping nearby. You notice a bag co
 
 After seeing the bag, you:
 
-* [Go through the old man's clothes for any thick layers to wear]
-* ["Man up" and force yourself to sleep.] -> Man
+* [Force yourself to sleep.] -> Man
 
 = Man
 2:15 PM # CLASS: time
 
-Deciding to be the bigger person and not steal the elderly man’s clothes you force yourself to sleep. He needs them as much as you do.
+Deciding to be a btter person and not steal the elderly man’s clothes, you force yourself to sleep. He needs them as much as you do.
 
 6:17 PM # CLASS: time
 
@@ -1090,12 +1093,113 @@ Determined to figure out why your pain levels spiked so quickly, you check yours
 
 But as you leave from under the bridge, you realize that you have no clue where help <em>is</em>.
 
+6:23 PM # CLASS: time
+
+After wandering as far as you can with excruciating pain, you finally find a gas station in a nearby town.
+
 * [Continue] -> GasStation
 
 = GasStation
 
-Temporary
+7:00 PM # CLASS: time
+
+As soon as you enter the gas station, you are hit with a wave of heat and see people all around you. You are so relieved to finally be in the warmth of a building and near people that might help you. 
+
+You walk up to a tall lanky man in hopes of getting help for your pain and blood coughing problem. However, the man asks you: "Do you have any money?"
+
+You reply and tell him you are in extreme pain and are homeless, but as soon as he hears this he replies: 
+
+“You really think that on an Indigenous reserve you’ll receive good health care, especially when you don't have any money? The government doesn't care bout you. Looking at your symptoms, I suppose that you have tuberculosis. Someone a year ago had the same things and died a week later since she wasn’t able to get proper healthcare. Better luck somewhere else.”
+
+Hearing this you are crushed. You will never be able to be cured of your symptoms, even if you had money. This is it then, isn't it? You head back to the bridge.
+
+* [Continue] -> Bridge
 
 = Search
 
-Temporary
+2:45 PM # CLASS: time
+
+You decide that finding food is the most important factor for your survival and head out onto the snowy streets. You might freeze, but it's better than dying hungry.
+
+As you trek your way down the road all you can see is snow flying everywhere. You can barely see a metre ahead of you. 
+
+But you continue to push through the cold and the pain in your chest that seems to be getting worse by the minute.
+
+You walk for what feels like an eternity, but it's only been about an hour. You finally spot a gas station nearby. You approach it and look down at your watch. It’s already 3:42. 
+
+3:45 PM # CLASS: time
+
+You start to panic; you are starving.
+	
+You can feel it as your feet and hands go numb from the extreme temperature. You just want to find some food and a warm place to stay. 
+
+Suddenly you start coughing up blood. Chills run all over your body. You consider going to the gas station and asking for help but quickly dismiss the idea. You need to find food before it gets too dark. 
+
+4:00 PM # CLASS: time
+
+You decide to go to the gas station anyways, against your wishes.
+
+* [Continue] -> GasStation
+
+= Live
+
+After hearing that you have no way to receive treatment, you’re at a loss.
+
+Is this the end?
+
+A couple of days pass, and the pain as reached an all-time high. You know death is standing right in front of you… and that there’s nothing you can do to stop it. 
+
+You lay down under a bridge with the last picture of your family. You know your next words will be your last. 
+
+As the lights around you dim, you stare your pain in the eye and say “I am Darryl Sainnawap, from the Attawapiskat Reserve. I am love, I am thought, and I am knowledge. But most of all, I am change.” 
+
+As your voice fades, your last thought is a vision, that one day, someone will share the same dream that you once did when you were younger.
+
+But right now, only two people are in your head. 
+
+As everything shuts down, you try your best to whisper, “Mom, Dad? I love you.” 
+
+And with that, your eyes close, and the world fades to black. 
+
+The story of Darryl Sainnawap concludes. 
+
+-> END
+
+= Bridge
+
+Back at the bridge, you now face a choice: you know that you will die anyways, but how will you?
+
+* [Suicide] -> Suicide
+* [Try to live it out] -> Live
+
+= Suicide
+
+8:30pm # CLASS: time
+
+As you pace around the bridge, your entire life flashes before your eyes. Your childhood, teenage years, school, and you in the present. 
+
+Was it all destined to end like this?
+
+As your mind races, you hope your dream will continue on to someone who isn’t held down by the burdens and limitations of your birth.
+
+Maybe if you were normal… 
+
+And yet just as quickly the sentence finishes in your head, it refutes itself, this time out loud. 
+
+“No. I am normal. Yes, I was held down because of my culture, but I am not ashamed of who I am. I am Darryl Sainnawap, from the Attawapiskat Reserve. I am loved, I am thought, and I am knowledge. But most of all, I am change.” you say.
+
+You look down the churning freezing river below you, and you jump.
+
+This is the end. 
+
+Your final thoughts clear up, no longer clouded by fear, regret creeping in. 
+
+“Mom, Dad, I love you!” you scream. 
+
+And with that, you hit the water, and the world fades to black. 
+
+The story of Darryl Sainnawap, your story concludes. 
+
+<iframe width="100%" height="500" src="https:\/\/www.youtube.com/embed/M6iuRJvDOKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+-> END
